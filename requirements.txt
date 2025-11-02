@@ -1,0 +1,31 @@
+# =======================================
+# Car-AI Project — Full Requirements
+# YOLOv8 + OpenCLIP + Torch + OpenCV Stack
+# =======================================
+
+# --- Core AI Dependencies ---
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+open-clip-torch>=2.20.0
+ultralytics>=8.2.0
+
+# --- Computer Vision / Image Processing ---
+opencv-python>=4.8.0
+pillow>=10.0.0
+numpy>=1.25.0
+matplotlib>=3.7.0
+
+# --- Utilities / Logging / System ---
+tqdm>=4.66.0
+psutil>=5.9.5
+requests>=2.31.0
+colorama>=0.4.6
+rich>=13.7.0
+
+# --- Data Handling / JSON ---
+pandas>=2.0.3
+pyyaml>=6.0.1
+
+# --- Threading / Async Tools ---
+concurrent-log-handler>=0.9.24
