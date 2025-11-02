@@ -1,7 +1,7 @@
 #!/bin/bash
 # ingestcam.sh — Continuous HTTPS HLS recorder with auto chunking (no AI blocking)
 
-STREAM_URL="https://6855e4345af72.streamlock.net:1935/lexington-live/lex-cam-055.stream/playlist.m3u8?tokenstarttime=1762025611&tokenendtime=1762036411&tokenhash=SG2NmjTq-dS9Td8RRkLQhZ6SDIoepWGDZzb_Xvyycv4="
+STREAM_URL="https://6855e4345af72.streamlock.net:1935/lexington-live/lex-cam-035.stream/playlist.m3u8?tokenstarttime=1762051694&tokenendtime=1762062494&tokenhash=zWhr_kAy4UmP0x4YughNpJc3_4QX2rE3jNwc4slg1kA="
 CAM_NAME="cam-080"
 OUTPUT_DIR="./recordings"
 LOG_DIR="./logs"
